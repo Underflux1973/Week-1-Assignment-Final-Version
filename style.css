@@ -1,0 +1,285 @@
+.HeaderLogoFlex {
+    position: fixed;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2rem 4rem;
+    gap: 1rem;
+    z-index: 1;
+  }
+  .main-navbar-flexcontainer {
+    display: flex;
+    height: 100px;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    background-color: azure;
+    opacity: 75%;
+  }
+  .main-navbar-linktext {
+    font-family: monospace;
+    text-align: center;
+    gap: 2rem;
+    padding: 5px;
+    font-size: 22px;
+    color: #fe9403;
+    text-decoration: none;
+  }
+  .image-soundsystem {
+    background-image: url(/Images/audio-sound-system-speakers.jpg);
+  }
+  .mainfeature {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .section {
+    display: block;
+    unicode-bidi: isolate;
+  }
+  .mainfeature_textflexbox {
+    position: absolute;
+    align-items: center;
+    bottom: 50px;
+    left: 30px;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    color: #fbf9f7;
+  }
+  .mainfeature_headline {
+    font-size: 30px;
+    color: #fbf9f7;
+    font-weight: 700;
+  }
+  .mainfeature_subheadline {
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    margin-top: 0.5rem;
+    display: inline-block;
+    border: 3px solid #fbf9f7;
+    padding: 2rem 1rem 2rem 1rem;
+  }
+  
+  .mainfeature_readmore {
+    font-size: 20px;
+    color: #fbf9f7;
+    margin-top: 1rem;
+    display: inline-block;
+    max-width: 350px;
+    font-weight: 900;
+    border: 3px solid #fe9403;
+    padding: 1rem 4rem 1rem 4rem;
+    text-decoration: none;
+    background-color: #fe9403;
+  }
+  .image-printworks {
+    background-image: url(/Images/DNB_Events.jpg);
+  }
+  .events {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .section {
+    display: block;
+    unicode-bidi: isolate;
+  }
+  .events_textflexbox {
+    position: absolute;
+    align-items: center;
+    left: 30px;
+    bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    color: #fe9403;
+  }
+  .events_headline {
+    font-size: 30px;
+    color: hwb(0 100% 0%);
+    font-weight: 1000;
+  }
+  .events_subheadline {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 300;
+    color: #ffffff;
+    margin-top: 0.5rem;
+    display: inline-block;
+    border: 3px solid hsl(0, 0%, 100%);
+    padding: 2rem 1rem 2rem 1rem;
+    text-wrap: wrap;
+  }
+  .events_readmore {
+    font-size: 20px;
+    color: #fbf9f7;
+    margin-top: 1rem;
+    display: inline-block;
+    max-width: 350px;
+    font-weight: 900;
+    border: 3px solid #fe9403;
+    padding: 1rem 4rem 1rem 4rem;
+    justify-items: center;
+    text-decoration: none;
+    background-color: #fe9403;
+  }
+  .randall-rip {
+    background-image: url(/Images/DJ_Randall_RIP_ArtistFocus.jpg);
+  }
+  .lowdown {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .section {
+    display: block;
+    unicode-bidi: isolate;
+  }
+  .lowdown_textflexbox {
+    position: absolute;
+    align-items: center;
+    left: 30px;
+    bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    color: #fe9403;
+  }
+  .lowdown_headline {
+    font-size: 30px;
+    color: hwb(0 100% 0%);
+    font-weight: 1000;
+  }
+  .lowdown_subheadline {
+    font-size: 20px;
+    font-weight: 400;
+    text-wrap: wrap;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 0.5rem;
+    display: inline-block;
+    border: 3px solid hsl(0, 0%, 100%);
+    padding: 2rem 1rem 2rem 1rem;
+  }
+  .lowdown_readmore {
+    font-size: 20px;
+    color: #fbf9f7;
+    margin-top: 1rem;
+    display: inline-block;
+    max-width: 350px;
+    font-weight: 900;
+    border: 3px solid #fe9403;
+    padding: 1rem 4rem 1rem 4rem;
+    justify-items: center;
+    text-decoration: none;
+    background-color: #fe9403;
+  }
+  .brukrogers-zerot {
+    background-image: url(/Images/Artist_Profile_Bruk_Rogers.jpeg);
+  }
+  .artistprofile {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  .section {
+    display: block;
+    unicode-bidi: isolate;
+  }
+  .artistprofile_textflexbox {
+    position: absolute;
+    align-items: center;
+    left: 30px;
+    bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    color: #fe9403;
+  }
+  .artistprofile_headline {
+    font-size: 30px;
+    color: hwb(0 100% 0%);
+    font-weight: 1000;
+  }
+  .artistprofile_subheadline {
+    font-size: 20px;
+    font-weight: 400;
+    text-wrap: wrap;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 0.5rem;
+    display: inline-block;
+    border: 3px solid hsl(0, 0%, 100%);
+    padding: 2rem 1rem 2rem 1rem;
+  }
+  .artistprofile_readmore {
+    font-size: 20px;
+    color: #fbf9f7;
+    margin-top: 1rem;
+    display: inline-block;
+    max-width: 350px;
+    font-weight: 900;
+    border: 3px solid #fe9403;
+    padding: 1rem 4rem 1rem 4rem;
+    justify-items: center;
+    text-decoration: none;
+    background-color: #fe9403;
+  }
+  .section {
+    display: block;
+    unicode-bidi: isolate;
+  }
+  .footer {
+    text-align: center;
+  }
+  
+  .footer-container {
+    background-color: #fe9403;
+    display: flex;
+  }
+  
+  .footer-container a {
+    color: hsl(0, 0%, 100%);
+    padding: 42px 16px;
+    text-decoration: none;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: medium;
+  }
+  
+  .footer-left {
+    margin-right: auto;
+  }
+  
+  .fa:hover {
+    color: hsl(60, 1%, 38%);
+  }
+  
+  .footer-icons {
+    justify-content: space-between;
+    padding: 16px 64px 0px 0px;
+  }
+  
+  .footer-icons ul {
+    list-style-type: none;
+  }
+  
+  .footer-icons li {
+    display: inline-block;
+  }
+  
+  .footer-right {
+    margin-left: auto;
+  }
+  
+  .copyright {
+    background-color: #f5f6f7;
+    overflow: hidden;
+  }
+  

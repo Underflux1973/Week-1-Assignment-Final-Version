@@ -1,19 +1,10 @@
-REFLECIONS ON THIS WEEEKS ASSIGNMENT
+WEEK 1 - PROJECT REVIST
 
-Overall I feel reasonably happy with my progress on this assignment. The page I have created is fairly similar to the ideas I visualised in my mind. That said there are still some aspects of my work and the coding that seem a little clunky which I will endeavour to explain below in more detail.
+Now that I have finished my Skills Bootcamp I have time to revisit the course material and projects in the hope that I can embed some of the knowlege further. Its interesting visiting this project as it was the first assignment we were given - it seems like such a long time ago, but it was only four months ago. Looking at this now, it feels very basic, but from the point of view of accomplishment and feelings of resolution I felt it was important to revisit this one.
 
-- 1.1 - The navigation menu is not entirely as I would have liked. You can see that i added some opacity to the navigation flexbox which is all good - but it then added the opacity to the text contained within the flexbox. As I write this I am thinking that to resolve this I would need to create a separate container for the text so I can style the text and parent flexbox independently - I shall await your feedback on this!
+This is a basic static webpage using HTML and CSS. I am actually quite happy with the structure of most of my code. The problems I encountered with the original project were very basic errors concerning file path names as the images didn't load up when I shared the link to the web page as the filepath was incorrect, which I have now fixed.
 
-- 1.2 - Looking at my css I am beginning to think I could have simplified this a bit more, particularly with the flexboxes containing the text in the different sections.
+As a developer you will always want to work smarter and use the minimum amount of code to fulfill the function and design of the web app/page. I can see that I have used duplicate code. I will endeavour to look at simplifying this further.
 
-- 1.3 - The autoplay functionality on the audio that I have embedded into my web page doesn't work automatically.  It does play audio but it requires the visitor/client user to press the play button.  Having read some documentation via MDN docs, I can see that lots of browsers don't allow autoplay and seem to block it - due to issues with ads and also from a user experience, it isn't always best to have audio playing immediately when you visit a website/web page. 
-
-- 1.4 - In regards to CSS, I found out that you could create multiple classes for an element by writing the class labels and simply seperating with a space in the HTML e.g. <section id="events" class="events image-printworks"> this has saved quite a bit of time in the flow. 
-
-- 1.5 - I am getting better at finding the common issues that occur in coding e.g. no closing div, misssing /, wrong file path name. Or not nesting an element in the correct way. 
-
-- 1.6 - You'll see that my social media icons in the footer are not visible. I ran out of time to fix this. 
-
-FINAL THOUGHTS 
-
-I can see that I will need to spend more time just simply trying things out and continuing to practice coding in spare momemts outside the class hours. I can see that I get easily distracted with design elements, when actually my priority is sometimes just to get something working first - then to look at the design.  
+I am also keen to have a look at advanced flexbox design and css grids to see if I can simplify this even further. To be honest I feel that a lot of this will be null and void depending on how much I decide to use Next JS and React, as there are some excellent tools that simplify e.g. Tailwind (a newish CSS inline design code that is pretty nifty) and Daisy UI (a component library that could be used for this front-end led project).
+# Week-1-Revist

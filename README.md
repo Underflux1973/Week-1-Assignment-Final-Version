@@ -8,3 +8,4 @@ As a developer you will always want to work smarter and use the minimum amount o
 
 I am also keen to have a look at advanced flexbox design and css grids to see if I can simplify this even further. To be honest I feel that a lot of this will be null and void depending on how much I decide to use Next JS and React, as there are some excellent tools that simplify e.g. Tailwind (a newish CSS inline design code that is pretty nifty) and Daisy UI (a component library that could be used for this front-end led project).
 # Week-1-Revist
+# Week-1-Revist
